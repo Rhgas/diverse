@@ -1,4 +1,4 @@
-program divprog;
+program divprog;      {Programm to diverse} 
 var
 	i,c,n: integer;
 begin
