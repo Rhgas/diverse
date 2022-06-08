@@ -1,9 +1,9 @@
-program divprog;
+program divprog;                              
 var
 	i,c,n: integer;
 begin
 	i := 1;
-while not seekeoln do
+while not seekeof do         {extended the loop} 
 	begin
 	read(c);
 	n:=c div 100;
