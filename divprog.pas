@@ -20,3 +20,5 @@ while not seekeof do         {extended the loop}
 		writeln(n)
 	end;
 end.
+
+
