@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-program divprog;                             
-=======
 program divprog;      {Programm to diverse} 
 >>>>>>> master
 var
