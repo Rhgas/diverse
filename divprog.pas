@@ -1,9 +1,13 @@
+<<<<<<< HEAD
+program divprog;                             
+=======
 program divprog;      {Programm to diverse} 
+>>>>>>> master
 var
 	i,c,n: integer;
 begin
 	i := 1;
-while not seekeoln do
+while not seekeof do         {extended the loop}
 	begin
 	read(c);
 	n:=c div 100;
@@ -16,3 +20,5 @@ while not seekeoln do
 		writeln(n)
 	end;
 end.
+
+
